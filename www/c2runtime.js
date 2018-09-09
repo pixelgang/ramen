@@ -3735,8 +3735,8 @@ quat4.str=function(a){return"["+a[0]+", "+a[1]+", "+a[2]+", "+a[3]+"]"};
 					"powerPreference": "high-performance",
 					"failIfMajorPerformanceCaveat": true
 				};
-				this.gl = (this.canvas.getContext("webgl2", attribs) ||
-						   this.canvas.getContext("webgl", attribs) ||
+				this.gl = (this.canvas.getContext("webgl1", attribs) ||
+						
 						   this.canvas.getContext("experimental-webgl", attribs));
 			}
 		}
