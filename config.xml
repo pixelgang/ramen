@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.dgitalharm.ramen" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-	<name>Ramen Soldiers vs Zombies</name>
+<widget id="com.kennymtega.soldier" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+	<name>Ramen beat the Zombies</name>
 	<description>Ramen Soldiers against zombies</description>
-	<author href="digitalharmony.agency" email="support@digitalharmony.agency">Digital Harmony</author>
+	<author href="kennymtega" email="support@kennymtega.com">Kennym</author>
 
 	<icon src="www/icon-256.png" width="256" height="256" density="xxxhdpi" />
 	<icon src="www/icon-128.png" width="128" height="128" density="xhdpi" />
